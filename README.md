@@ -15,6 +15,7 @@ Indice para el ejercicio "CRUD con JSP y BBDD"
 * [Meléndez Bravo, Esther](https://github.com/esthermelendez/CRUD_JSP)
 * [Miranda Stavenuiter, Iván](https://github.com/ivanmirandastavenuiter/CRUD)
 * [Moreno de Vega Haro, Carmen](https://github.com/CarmenMorenodeVega/CRUD_JSP.git)
+* [Ramirez Escribano, Álvaro](https://github.com/AlvaroRamirezEscribano/CRUD_JSP)
 * [Ruiz López, Alejandro](https://github.com/AleRui/CRUD_MagoAxarquia)
 * [Parejo Ramos, Beatriz](https://github.com/BeatrizPR/CRUD) 
 * [Puche Velasco, Alejandro](https://github.com/AlejandroPuche/crud_jsp)
